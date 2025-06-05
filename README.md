@@ -102,8 +102,8 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 
 ## OUTPUTS:
 
-The AI model has analyzed the provided data and predicts a PCOS Negative (N) outcome - [Non-PCOS Patient (Example: Row 1)] 
-This indicates a low likelihood of PCOS, with a high confidence level of 93.00%.
+## The AI model has analyzed the provided data and predicts a PCOS Negative (N) outcome - [Non-PCOS Patient (Example: Row 1)] 
+## This indicates a low likelihood of PCOS, with a high confidence level of 93.00%.
 
 ![WhatsApp Image 2025-06-05 at 14 10 10_098e2361](https://github.com/user-attachments/assets/cadbeea3-1a5c-4f37-9a0b-b8bdfcc97d2a)
 
@@ -115,9 +115,10 @@ This indicates a low likelihood of PCOS, with a high confidence level of 93.00%.
 
 ![WhatsApp Image 2025-06-05 at 14 13 44_ae9dc270](https://github.com/user-attachments/assets/98abdf48-03f3-49d3-8ed1-3f953cd3f0dd)
 
+---
 
-The AI model has analyzed the provided data and predicts a PCOS Positive (Y) outcome - [PCOS Patient (Example: Row 3)] 
-This indicates a likelihood of PCOS, with a confidence level of 69.00%.
+## The AI model has analyzed the provided data and predicts a PCOS Positive (Y) outcome - [PCOS Patient (Example: Row 3)] 
+## This indicates a likelihood of PCOS, with a confidence level of 69.00%.
 
 ![WhatsApp Image 2025-06-05 at 13 58 20_f1b43248](https://github.com/user-attachments/assets/9ecb19de-b7de-4faa-b67d-56faffd57c31)
 

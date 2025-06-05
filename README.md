@@ -9,6 +9,7 @@
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder affecting millions of women. This AI-powered diagnostic assistant helps predict the likelihood of PCOS using biomedical indicators like hormone levels, BMI, and clinical symptoms. 
 
 The tool provides accessible support for early detection and empowers women’s health decisions through a friendly Streamlit-based chatbot.
+⚠️ Disclaimer: This tool is not a substitute for professional medical advice.
 
 ---
 
@@ -171,6 +172,14 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 - **Clinical Trust**: Build reliability through validations.
 
 ---
+
+## 📚 References
+-**World Health Organization (WHO) – Information on Polycystic Ovary Syndrome (PCOS)**
+https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome
+
+-**Kaggle Dataset – Polycystic Ovary Syndrome (PCOS) Dataset by Prasoon Kottarathil**
+https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+
 
 
 

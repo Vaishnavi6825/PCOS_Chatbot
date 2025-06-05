@@ -174,10 +174,10 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 ---
 
 ## 📚 References
--**World Health Organization (WHO) – Information on Polycystic Ovary Syndrome (PCOS)**
+-**World Health Organization (WHO) – Information on Polycystic Ovary Syndrome (PCOS)** <br>
 https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome
 
--**Kaggle Dataset – Polycystic Ovary Syndrome (PCOS) Dataset by Prasoon Kottarathil**
+-**Kaggle Dataset – Polycystic Ovary Syndrome (PCOS) Dataset by Prasoon Kottarathil** <br>
 https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
 
 

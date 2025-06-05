@@ -1,6 +1,6 @@
 # 🌸 PCOS_Chatbot
 
-**AI tool for early PCOS detection using biomedical data via Streamlit.**
+**AI POWERED PCOS & ENDOMETRIOSIS DIAGNOSIS ASSISTANT**
 
 ---
 
@@ -14,7 +14,7 @@ The tool provides accessible support for early detection and empowers women’s 
 
 ## 🎯 Problem Statement
 
-Women often face delays in diagnosis due to non-specific symptoms and lack of awareness about conditions like PCOS. This project aims to assist early-stage PCOS prediction using machine learning, improving accessibility and awareness.
+Women have diverse health needs that are often not adequately addressed by generic healthcare approaches. This lack of personalization can lead to suboptimal health outcomes and limited access to relevant services.They often face delays in diagnosis due to non-specific symptoms and lack of awareness about conditions like PCOS. This project aims to assist early-stage PCOS prediction using machine learning, improving accessibility and awareness.
 
 ---
 
@@ -171,6 +171,8 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 - **Clinical Trust**: Build reliability through validations.
 
 ---
+
+
 
 
 

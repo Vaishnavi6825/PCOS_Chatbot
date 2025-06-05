@@ -79,6 +79,56 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 | PCOS Positive  | 🟥 PCOS Positive (Y) 😥   | 50–100%           | High likelihood of PCOS       |
 | PCOS Negative  | 🟩 PCOS Negative (N) 😊   | 50–100%           | Low likelihood of PCOS        |
 
+
+## Comparison Chart: PCOS vs. Non-PCOS Patient
+
+| Metric                | PCOS Patient (Example: Row 3) | Non-PCOS Patient (Example: Row 1) | Notes                                    |
+|-----------------------|-------------------------------|-----------------------------------|------------------------------------------|
+| PCOS (Y/N)            | 1 (Yes)                       | 0 (No)                            | Confirmed diagnosis.                     |
+| Age (yrs)             | 33                            | 28                                | Age range typical for PCOS.              |
+| BMI                   | 25.3                          | 19.3                              | Higher BMI may correlate with PCOS.      |
+| LH (mIU/mL)           | 5.54                          | 7.95                              | LH:FSH ratio often >2 in PCOS.           |
+| FSH (mIU/mL)          | 0.88                          | 3.68                              | Lower FSH in PCOS.                       |
+| LH/FSH Ratio          | 6.3 (High)                    | 2.16 (Normal)                     | Ratio >2 suggests PCOS.                  |
+| AMH (ng/mL)           | 6.63                          | 2.07                              | Elevated AMH common in PCOS.             |
+| Follicle No. (L)      | 13                            | 3                                 | Polycystic ovaries (>12 follicles).      |
+| Follicle No. (R)      | 15                            | 3                                 | Bilateral cysts common in PCOS.          |
+| Hair Growth (Y/N)     | 1 (Yes)                       | 0 (No)                            | Hirsutism is a PCOS symptom.             |
+| Skin Darkening (Y/N)  | 1 (Yes)                       | 0 (No)                            | Acanthosis nigricans may occur.          |
+| Pimples (Y/N)         | 1 (Yes)                       | 0 (No)                            | Hormonal acne linked to PCOS.            |
+| Waist:Hip Ratio       | 0.9                           | 0.83                              | Higher ratio indicates central obesity.  |
+| TSH (mIU/L)           | 2.54                          | 0.68                              | Thyroid dysfunction may coexist.         |
+
+
+## OUTPUTS:
+
+The AI model has analyzed the provided data and predicts a PCOS Negative (N) outcome - [Non-PCOS Patient (Example: Row 1)] 
+This indicates a low likelihood of PCOS, with a high confidence level of 93.00%.
+
+![WhatsApp Image 2025-06-05 at 14 10 10_098e2361](https://github.com/user-attachments/assets/cadbeea3-1a5c-4f37-9a0b-b8bdfcc97d2a)
+
+![WhatsApp Image 2025-06-05 at 14 10 42_f5d591dd](https://github.com/user-attachments/assets/7def23bc-a05b-43fe-aac1-6a389ee73bf9)
+
+![WhatsApp Image 2025-06-05 at 14 12 22_47c41f7b](https://github.com/user-attachments/assets/a0077f0e-5a58-40a5-b771-64cb50216b1d)
+
+![WhatsApp Image 2025-06-05 at 14 13 08_63027b6d](https://github.com/user-attachments/assets/7e30716f-f235-4d06-bbab-b12bedb7f7e2)
+
+![WhatsApp Image 2025-06-05 at 14 13 44_ae9dc270](https://github.com/user-attachments/assets/98abdf48-03f3-49d3-8ed1-3f953cd3f0dd)
+
+
+The AI model has analyzed the provided data and predicts a PCOS Positive (Y) outcome - [PCOS Patient (Example: Row 3)] 
+This indicates a likelihood of PCOS, with a confidence level of 69.00%.
+
+![WhatsApp Image 2025-06-05 at 13 58 20_f1b43248](https://github.com/user-attachments/assets/9ecb19de-b7de-4faa-b67d-56faffd57c31)
+
+![WhatsApp Image 2025-06-05 at 13 58 50_1a4c2e9c](https://github.com/user-attachments/assets/3060df73-989d-40e5-b076-100486f13e8b)
+
+![WhatsApp Image 2025-06-05 at 13 59 18_c8b29ecb](https://github.com/user-attachments/assets/32323252-688b-49bb-9f65-3d7694ec64e6)
+
+![WhatsApp Image 2025-06-05 at 13 59 45_03e516d9](https://github.com/user-attachments/assets/0d2c52c8-fa3d-4272-b992-9ea8fe5271e1)
+
+![WhatsApp Image 2025-06-05 at 14 00 03_4845c833](https://github.com/user-attachments/assets/e9be5d92-d9f2-40cc-844a-28736eb8fac0)
+
 ---
 
 ## ✅ Recommendations Based on Prediction
@@ -120,4 +170,9 @@ The chatbot allows users to enter clinical values like age, AMH, BMI, etc., and 
 - **Clinical Trust**: Build reliability through validations.
 
 ---
+
+
+
+
+
 
